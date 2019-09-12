@@ -23,8 +23,6 @@
 ##### An xv6 Operating System I created at PSU during the Operating Systems course
   [Link](https://github.com/dannielsotelo/xv6_OS) to repo
 
-
 **Blockchain**
 ##### Blockchain CTFs completed during Blockchain course
-  [Link](https://bitbucket.org/dsotelo_CS410/cs410b-danniel-sotelo/src/master/) to repo
-  [Link](https://bitbucket.org/dsotelo_CS410/cs410b-danniel-sotelo/src/master/final/) link to folder with video on how I solved blockchiain CTFs
+  [Link](https://github.com/dannielsotelo/Blockchain) to repo
