@@ -17,3 +17,5 @@
 ##### CTF I created for a Malware class at PSU
   [Link](https://github.com/dannielsotelo/Malware-Project) to the repo  
   [Link](https://github.com/dannielsotelo/Malware-Project/blob/master/program.c.template) to Malware code  
+##### CTFs I completed in Malware Course
+  [Link](https://github.com/dannielsotelo/Malware) to completed Malware CTFs
