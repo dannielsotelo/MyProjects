@@ -12,10 +12,13 @@
   [Link](https://github.com/dannielsotelo/Little-Warrior) to Little Warrior Repo  
   [Link](https://github.com/dannielsotelo/Little-Warrior/tree/master/src) to src folder which holds code of the game. 
 
-
 ## Malware CTF
 ##### CTF I created for a Malware class at PSU
   [Link](https://github.com/dannielsotelo/Malware-Project) to the repo  
   [Link](https://github.com/dannielsotelo/Malware-Project/blob/master/program.c.template) to Malware code  
 ##### CTFs I completed in Malware Course
   [Link](https://github.com/dannielsotelo/Malware) to completed Malware CTFs
+
+## Operating System
+##### An xv6 Operating System I created at PSU during the Operating Systems course
+  [Link](https://github.com/dannielsotelo/xv6_OS) to repo
